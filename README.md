@@ -1,2 +1,2 @@
 # .github
-Nachceko Network Team的README（公开）
+Nachceko Team的README（公开）
