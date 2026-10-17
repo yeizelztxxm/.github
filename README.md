@@ -1,2 +1,1 @@
-# .github
-YeizelZtxx_M的README（公开）
+# .github的README（公开）
